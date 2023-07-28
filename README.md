@@ -10,7 +10,7 @@ My key tech skills are:
 
 - 🔭 In my free time I am buidling Wisetally a smart expense managment and time-tracking software for small businesses. 
 - 🌱 When I am not working on Wisetally I spending my time practising Golang and playing around with AI tools.
-- 📫 You can get in touch by DMing me on Twitter or emailing me on thisisrahmat @ gmail .com 
+- 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
 
 <!--
 **ThisIsRahmat/ThisIsRahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
