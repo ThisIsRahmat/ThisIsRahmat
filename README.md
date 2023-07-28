@@ -3,6 +3,13 @@
 <!--
 **ThisIsRahmat/ThisIsRahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am Rahmat a Software Engineer from the UK 🇬🇧
+
+👯 I am open to collaborating on web apps and consulting on devops projects.
+
+- 🔭 In my free time I am buidlign Wisetally a smart expense managment and time-tracking software for small businesses. 
+- 🌱 When I am not working on Wisetally I am spending my time mastering Golang. 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
