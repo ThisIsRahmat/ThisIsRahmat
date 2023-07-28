@@ -6,7 +6,7 @@
 
 My key tech skills are: 
 
- [AWS]  [Docker]  [Golang]  [Google Cloud]  [Nextjs]  [Postgresql]   [Python]
+ AWS  Docker  Golang  Google Cloud  Nextjs  Postgresql   Python
 
 - 🔭 In my free time I am buidling Wisetally a smart expense managment and time-tracking software for small businesses. 
 - 🌱 When I am not working on Wisetally I spending my time practising Golang and playing around with AI tools.
