@@ -2,7 +2,7 @@
 
 # I am Rahmat a Software Engineer from the UK 🇬🇧
 
-👯 I am open to collaborating on web apps and consulting on devops projects.
+👯 I am open to collaborating on golang or nextjs projects
 
 My key tech skills are: 
 
