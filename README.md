@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-# I am Rahmat a Software Engineer from the UK 🇬🇧
 
-👯 I am open to collaborating on golang or nextjs projects
+## I am open to collaborating on golang or typescript projects
 
-My key tech skills are: 
 
- AWS  Docker  Golang  Google Cloud  Nextjs  Postgresql   Python
-
-- 🔭 In my free time I am buidling Wisetally a smart expense managment and time-tracking software for small businesses. 
-- 🌱 When I am not working on Wisetally I spending my time practising Golang and playing around with AI tools.
+- 🔭 In my free time I am buidling OpenSaasFinder a website for finding open source alternatives to popular Saas producst
+- I am also building MoneyMinder - a supermarket comparison toolto allow users to find the best deals and save money
+- 🌱 When I am not working on these projects I spending my time practising Golang or Typescript and playing around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
 
 <!--
