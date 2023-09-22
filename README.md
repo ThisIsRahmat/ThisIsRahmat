@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I am open to collaborating on golang or typescript projects
+## I am open to collaborating on golang or nextjs (typescript/javascript) projects
 
 
 - 🔭 In my free time I am buidling OpenSaasFinder (OpenSaasFinder.com) a website for finding open source alternatives to popular Saas producst
