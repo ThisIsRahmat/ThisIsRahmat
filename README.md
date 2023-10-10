@@ -4,7 +4,7 @@
 ## I am open to collaborating on golang or nextjs (typescript/javascript) projects
 
 
-- 🔭 In my free time I am buidling OpenSaasFinder (OpenSaasFinder.com) a website for finding open source alternatives to popular Saas producst
+- 🔭 In my free time I am buidling [OpenSaasFinder.com](https://www.opensaasfinder.com/) a website for finding open source alternatives to paid Saas products
 - I am also building MoneyMinder - a supermarket comparison tool to allow users to find the best supermarket deals and save money during this cost of living crisis
 - 🌱 When I am not working on these projects I spending my time practising Golang or Typescript and playing around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
