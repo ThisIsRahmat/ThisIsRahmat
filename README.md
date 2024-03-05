@@ -4,9 +4,7 @@
 ## I am open to collaborating on golang or nextjs (typescript/javascript) projects
 
 
-- 🔭 In my free time I am buidling [OpenSaasFinder.com](https://www.opensaasfinder.com/) a website for finding open source alternatives to paid Saas products
-- I am also building Real or AI - a fun little web based game for guessing whether an image is real or AI generated.
-
+- 🔭 In my free time I am buidling my very first business, Screenly a product that simplifies candidate screening.
 
 - 🌱 When I am not working on these projects I spending my time practising Golang or Typescript and playing around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
