@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-## I am open to collaborating on golang or nextjs (typescript/javascript) projects
+## I am open to collaborating on pythonor nextjs (typescript/javascript) projects
 
 
-- 🔭 In my free time I am buidling my very first business, Screenly a product that simplifies candidate screening.
+- 🔭 In my free time I am buidling my very first business, InterviewGenie a product that helps candidates prepare for job interviews.
 
-- 🌱 When I am not working on these projects I spending my time practising Golang or Typescript and playing around with AI tools.
+- 🌱 When I am not working on these projects I spending my time practising laying around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
 
 <!--
