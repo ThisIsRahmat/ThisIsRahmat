@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I am open to collaborating on pythonor nextjs (typescript/javascript) projects
+## I am open to collaborating on python or nextjs (typescript/javascript) projects
 
 
 - 🔭 In my free time I am buidling my very first business, InterviewGenie a product that helps candidates prepare for job interviews.
