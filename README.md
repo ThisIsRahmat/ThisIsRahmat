@@ -6,7 +6,7 @@
 
 - 🔭 In my free time I am buidling my very first business, InterviewGenie a product that helps candidates prepare for job interviews.
 
-- 🌱 When I am not working on these projects I spending my time practising laying around with AI tools.
+- 🌱 When I am not working on these projects I spending my time playing around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
 
 <!--
