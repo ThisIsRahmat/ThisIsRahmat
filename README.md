@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-## I am open to collaborating on python or nextjs (typescript/javascript) projects
+## I am open to collaborating on python or react/nextjs (typescript/javascript) projects
 
 
 - 🔭 In my free time I am buidling my very first business, Interviewgenie (https://interviewgenie.co/) an AI-powered conversational agent that helps job seekers prepare for job interviews.
+- Interviewgenie is built in: React with Vite and FastAPI 
 
 - 🌱 When I am not working on Interviewgenie I spend my time playing around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
