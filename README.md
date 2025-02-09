@@ -4,9 +4,9 @@
 ## I am open to collaborating on python or nextjs (typescript/javascript) projects
 
 
-- 🔭 In my free time I am buidling my very first business, InterviewGenie a product that helps job seekers prepare for job interviews.
+- 🔭 In my free time I am buidling my very first business, Interviewgenie (https://interviewgenie.co/) an AI-powered conversational agent that helps job seekers prepare for job interviews.
 
-- 🌱 When I am not working on these projects I spending my time playing around with AI tools.
+- 🌱 When I am not working on Interviewgenie I spend my time playing around with AI tools.
 - 📫 You can get in touch by DMing me on Twitter(@thisis_rahmat) or emailing me on thisisrahmat @ gmail  dot com 
 
 <!--
